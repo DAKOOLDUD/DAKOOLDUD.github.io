@@ -254,7 +254,7 @@ INTRO CONTAINER
 }
 
 .beer.background_content{
-    background: url('../images/beer.jpg') no-repeat center center; 
+    background: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-NkoDLvaM2eQ%2FVbaW7TbONwI%2FAAAAAAABQEc%2Fu6IUajGqL5Y%2Fw1200-h630-p-k-no-nu%2FFAQ_pic.jpg&f=1&nofb=1') no-repeat center center; 
     background-size: cover;
     background-position: 70% 50%;
 }
